@@ -19,7 +19,7 @@ If you want to go back to homepage, you can click **"click here"** which is on t
 
 emmm...There seems to be no difference between the two pictures. But it doesn't matter.
 
-```
+```Python
 # This is a simple "Hello world" python code snippet
 print("Hello world!")
 ```
@@ -40,8 +40,11 @@ fruit|fruit|a lot of fruit
 orange|tangerine|grapefruit
 
 *italicized text*
+
 **bolded text**
+
 ***bolded and italicized text***
+
 ~~strikethrough text~~
 
 ----
